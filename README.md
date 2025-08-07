@@ -120,5 +120,7 @@ customer_id INTEGER,
 amount REAL
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/453640d8-4347-4361-82e1-80f563ee0d1c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11fd6282-ecf7-4ed7-8b01-b68fc5d03c67" />
 
 ![alt text](image.png)
